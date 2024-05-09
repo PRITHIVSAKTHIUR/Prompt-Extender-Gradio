@@ -12,4 +12,14 @@ license: creativeml-openrail-m
 
 ✏️Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
+🚀Huggingface space : https://huggingface.co/spaces/prithivMLmods/Prompt-Extender
 
+🚀To Clone Just Install Git Past the Command : git clone https://huggingface.co/spaces/prithivMLmods/Prompt-Extender
+
+## 🫙Non extended prompt as Input. 
+
+![alt text](assets/pe1.png)
+
+## ⚡Extended Prompt as Outcome.
+
+![alt text](assets/pe2.png)
