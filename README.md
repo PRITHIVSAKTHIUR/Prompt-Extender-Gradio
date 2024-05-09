@@ -23,3 +23,9 @@ license: creativeml-openrail-m
 ## ⚡Extended Prompt as Outcome.
 
 ![alt text](assets/pe2.png)
+
+.
+
+.
+
+.
